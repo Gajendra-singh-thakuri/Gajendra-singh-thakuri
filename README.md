@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently persuing my bachelors's Degree in (Computer Science and Information Technology(BSC CSIT))
 
-- 🌱 I’m currently learning Web-development
+- 🌱 I’m currently learning different technologies
 
-- 💬 Ask me about **React**
+- 💬 Ask me about js
 
 - 📫 How to reach me **gajendrasingh76960@gmail.com**
 
