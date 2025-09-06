@@ -63,4 +63,4 @@
   <a href="mailto:gajendrasingh76960@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/gajendra-singh-thakuri"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-file:///home/thakuri/Pictures/Screenshots/Screenshot%20from%202025-08-31%2009-20-32.png
+
