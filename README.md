@@ -40,8 +40,12 @@
 | Project | Tech Stack | Demo | GitHub |
 |---------|------------|------|--------|
 | **Student Management System** | C++ | ![Demo](projects/demo.png) | [Code](https://github.com/Gajendra-singh-thakuri/cpp-collagemanagement) |
-|
+|**Learning Platform**|Mern|![Demo](projects/cms.png)|[Link](https://full-stack-client-zeta.vercel.app/)
+---
 
+##Portfolio Link
+--
+[view Portfolio](https://portfolio-three-inky-53.vercel.app/) 
 
 ## 📊 GitHub Stats
 
@@ -64,3 +68,4 @@
   <a href="https://github.com/gajendra-singh-thakuri"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
+----
